@@ -13,7 +13,7 @@ Tom May: http://bl.ocks.org/tjdecke/5558084  (indexhoraydia.html)
 
 Licence:  Released under the GNU General Public License, version 3.
 
-Para esta visualización en particular, elaboramos dos tipos de visualizaciones, discriminadas de la siguiente forma:
+Para este análisis en particular, elaboramos dos tipos de visualizaciones, discriminadas de la siguiente forma:
 
 *  Para la primera visualización (indexporfechaydpto.html), tomamos datos de caracter temporal (fecha -dia) correspondientes al periodo comprendido entre el 1 de Enero de 2017 al 31 de Agosto de 2017, agrupando cantiodad de hurtos de celular por departamento.
 * Para la segunda visualización (indexhoraydia.html), comparamos la ocurrencia de hurtos por día de la semana y por hora del da, tomando dos datasets, cada uno correspondiente a 4 meses corridos de 2017: Enero-Abril/Mayo-Agosto.
